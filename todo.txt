@@ -1,0 +1,13 @@
+// components
+
+title
+progress bar
+insert task (form input)
+selected status 
+TaskList
+
+// framework ui vuejs
+vue ant design
+
+// store?  
+no using vuex

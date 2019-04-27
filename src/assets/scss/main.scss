@@ -1,0 +1,13 @@
+// import abstracts files
+@import './abstracts/variables';
+
+// import base files
+@import './base/global';
+@import './base/animation';
+
+// import component files
+@import './components/todobox';
+@import './components/title';
+@import './components/progress-bar';
+@import './components/insert-task';
+@import './components/task-list';

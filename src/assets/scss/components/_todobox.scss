@@ -1,0 +1,21 @@
+.main {
+    width: $width-main;
+    height: $height-main;
+    background: $bg-main;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: $color-primary;
+    border-radius: 10px;
+    border: 20px solid $bg-main;
+    overflow-y: scroll;
+}
+
+.header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: $bg-main;
+    padding-bottom: $font-base; 
+}

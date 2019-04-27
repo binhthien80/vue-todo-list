@@ -1,0 +1,7 @@
+.progress-bar {
+    & > div {
+        & > span {
+            color: $color-secondary;
+        }
+    }
+}
